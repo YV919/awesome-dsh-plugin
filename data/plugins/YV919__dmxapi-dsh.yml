@@ -1,0 +1,7 @@
+url: https://github.com/YV919/dmxapi-dsh
+name: YV919/dmxapi-dsh
+category: model
+description:
+  en: Adds a setup UI for DMXAPI Chat Completions, Responses, Anthropic Messages, and custom providers in DeepSeek Harness.
+  zh: 在 DeepSeek Harness 中新增 DMXAPI 的 Chat、Responses、Anthropic 与自定义服务商配置界面。
+tarball: https://github.com/YV919/dmxapi-dsh/releases/download/v0.1.8/dsh-dmxapi-0.1.8.tgz
